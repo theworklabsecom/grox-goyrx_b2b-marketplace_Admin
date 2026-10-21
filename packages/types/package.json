@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "watch": "tsc --watch",
-    "build": "tsc"
+    "build": "node init && tsc"
   },
   "devDependencies": {
     "@medusajs/types": "rc",
